@@ -8,4 +8,5 @@ CONTRIBUTION: This shapefile serves as the foundation for a comprehensive spatia
 METHOD (DATA & ANNOTATION) SEE README_womens_march.xlsx
 
 LICENSE: The content of this project itself is licensed under the Creative Commons Attribution Share Alike 4.0 license, and the underlying source code used to format and display that content is licensed under the MIT license. Work covered by the CC incorporates third party content that has been prominently marked and is not pursuant to this notice. 																
+
 COLLABORATION: athompson@gsd.harvard.edu
